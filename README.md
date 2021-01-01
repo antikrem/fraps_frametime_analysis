@@ -19,7 +19,7 @@ Download the script and place in directory of choice.
 
 ## Examples
 
-[Example](https://i.ibb.co/Tt4wQ5H/3.png)
+![Example](https://i.ibb.co/Tt4wQ5H/3.png)
 
 ```
 Analysis of MCC-Win64-Shipping 2021-01-02 02-18-38-18 frametimes.csv
